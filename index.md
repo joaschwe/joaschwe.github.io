@@ -21,62 +21,7 @@
   </style>
 </head>
 <body>
-<table cellspacing="0" cellpadding="0" class="t1">
-  <tbody>
-    <tr>
-      <td valign="top" class="td1">
-        <p class="p1"><span class="s1">&lt;!DOCTYPE html&gt;</span></p>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" class="td2">
-        <p class="p2"><span class="s1"></span><br></p>
-      </td>
-      <td valign="top" class="td3">
-        <p class="p3"><span class="s2">&lt;</span><span class="s1">html</span><span class="s2">&gt;</span></p>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" class="td2">
-        <p class="p2"><span class="s1"></span><br></p>
-      </td>
-      <td valign="top" class="td3">
-        <p class="p3"><span class="s2">&lt;</span><span class="s1">body</span><span class="s2">&gt;</span></p>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" class="td2">
-        <p class="p2"><span class="s1"></span><br></p>
-      </td>
-      <td valign="top" class="td3">
-        <p class="p4"><span class="s1">&lt;</span><span class="s3">h1</span><span class="s1">&gt;Hello World&lt;/</span><span class="s3">h1</span><span class="s1">&gt;</span></p>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" class="td2">
-        <p class="p2"><span class="s1"></span><br></p>
-      </td>
-      <td valign="top" class="td3">
-        <p class="p4"><span class="s1">&lt;</span><span class="s3">p</span><span class="s1">&gt;I'm hosted with GitHub Pages.&lt;/</span><span class="s3">p</span><span class="s1">&gt;</span></p>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" class="td2">
-        <p class="p2"><span class="s1"></span><br></p>
-      </td>
-      <td valign="top" class="td3">
-        <p class="p3"><span class="s2">&lt;/</span><span class="s1">body</span><span class="s2">&gt;</span></p>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" class="td2">
-        <p class="p2"><span class="s1"></span><br></p>
-      </td>
-      <td valign="top" class="td3">
-        <p class="p3"><span class="s2">&lt;/</span><span class="s1">html</span><span class="s2">&gt;</span></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
